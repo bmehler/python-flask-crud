@@ -10,7 +10,6 @@ git clone https://github.com/bmehler/python-flask-crud.git
 
 ## Create a virtual environment
 ```bash
-mkdir python-flask-restapi
 $ cd python-flask-restapi
 $ python3 -m venv venv
 ```
