@@ -1,9 +1,23 @@
 # Restful Api with the Python Flask Framework
 
+## Getting the Project
+
+To install clone the github repository
+
+```php
+git clone https://github.com/bmehler/python-flask-crud.git
+```
+
 ## Create a virtual environment
 ```bash
-mkdir myproject
-$ cd myproject
+mkdir python-flask-restapi
+$ cd python-flask-restapi
+$ python3 -m venv venv
+```
+
+## Create a virtual environment
+```bash
+$ cd python-flask-crud
 $ python3 -m venv venv
 ```
 ## Activate the environment
